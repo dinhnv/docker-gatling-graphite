@@ -1,0 +1,29 @@
+version: '2'
+
+    # gatling.sh -sf /app/user-files/simulations -rf /app/results
+services:
+  graphite:
+    image: nickstenning/graphite
+    ports:
+      - "8081:80"
+      - "2003:2003"
+      - "2004:2004"
+      - "7002:7002"
+  gatling:
+    # https://github.com/nickstenning/docker-graphite
+    build:
+      context: .
+      dockerfile: ./compose/gatling/Dockerfile
+    volumes:
+      - ./compose/gatling/results:/opt/gatling/results
+      - ./compose/gatling/user-files:/opt/gatling/user-files/
+    depends_on:
+      - graphite
+    links:
+      - graphite
+    env_file: .env
+    command: echo "try gatling!"
+    extra_hosts:
+      # please change ip and host to your api
+      - "apihost:127.0.0.1"
+    # command: sudo mkdir -p /var/lib/graphite/storage/log/webapp/
