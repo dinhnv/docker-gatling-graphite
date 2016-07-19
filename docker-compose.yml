@@ -24,6 +24,6 @@ services:
     env_file: .env
     command: echo "try gatling!"
     extra_hosts:
-      # please change ip and host to your api
-      - "apihost:127.0.0.1"
+      # please change ip and host to your api, or use `ip addr show docker0` to replace xxx
+      - "apihost:xxx"
     # command: sudo mkdir -p /var/lib/graphite/storage/log/webapp/
