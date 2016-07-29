@@ -1,0 +1,186 @@
+DestinationId;RegionId;AirportName
+1350GNI;1350;Green Island, Taiwan
+180545;180545;Changi Airport (SIN), Singapore
+602399;602399;Hong Kong International Airport (HKG), Hong Kong
+6025583;6025583;East Midlands Airport (EMA), England, United Kingdom
+602957;602957;Dulles Airport (IAD), Virginia, United States of America
+6048133;6048133;Tampa International Airport (TPA), Florida, United States of America
+6048238;6048238;Haneda Airport (HND), Japan
+6049093;6049093;Hongqiao International Airport (SHA), Shanghai, China
+6049096;6049096;Pudong International Airport (PVG), Shanghai, China
+6049532;6049532;Malpensa International Airport (MXP), Italy
+6049533;6049533;Linate Airport (LIN), Italy
+6049716;6049716;Incheon International Airport (ICN), Incheon, South Korea
+6049865;6049865;Sydney Airport (SYD), New South Wales, Australia
+6049995;6049995;Suvarnabhumi International Airport (BKK), Thailand
+6050100;6050100;Chhatrapati Shivaji International Airport (BOM), India
+6050101;6050101;Santa Cruz Domestic Airport (BOM), India
+6050376;6050376;Blagnac Airport (TLS), France
+6050893;6050893;Kansai International Airport (KIX), Japan
+6051135;6051135;Hamburg Airport (HAM), Germany
+6051409;6051409;Benito Juarez International Airport (MEX), Distrito Federal, Mexico
+6051447;6051447;Tegel Airport (TXL), Germany
+6051499;6051499;Vienna International Airport (VIE), Austria
+6051688;6051688;Franz Josef Strauss International Airport (MUC), Germany
+6051778;6051778;Kastrup Airport (CPH), Denmark
+6051983;6051983;Fiumicino Airport (FCO), Italy
+6051984;6051984;Ciampino Airport (CIA), Italy
+6052025;6052025;Melbourne Airport (MEL), Victoria, Australia
+6052155;6052155;Brussels Airport (BRU), Brussels, Belgium
+6052210;6052210;Schiphol Airport (AMS), Netherlands
+6052409;6052409;Geneva International Airport (GVA), Geneva, Switzerland
+6052528;6052528;Dublin Airport (DUB), Ireland
+6052659;6052659;Barcelona El Prat Airport (BCN), Spain
+6052695;6052695;Auckland International Airport (AKL), New Zealand
+6052779;6052779;Arlanda Airport (ARN), Sweden
+6052803;6052803;Marseille - Provence Airport (MRS), France
+6053029;6053029;Rio de Janeiro International Airport (GIG), Brazil
+6053214;6053214;Roissy - Charles de Gaulle Airport (CDG), France
+6053216;6053216;Orly Airport (ORY), France
+6053437;6053437;Frankfurt Airport (FRA), Germany
+6053449;6053449;Adolfo Suarez Madrid-Barajas Airport (MAD), Spain
+6053496;6053496;Cologne - Bonn Airport (CGN), Germany
+6053498;6053498;Duesseldorf International Airport (DUS), Germany
+6053744;6053744;Cuscatlan International Airport (SAL), El Salvador
+6054007;6054007;Boise Airport (BOI), Idaho, United States of America
+6054059;6054059;Birmingham Airport (BHX), England, United Kingdom
+6054146;6054146;New Chitose Airport (CTS), Sapporo, Japan
+6054190;6054190;Aberdeen Airport (ABZ), Scotland, United Kingdom
+6054220;6054220;Glasgow International Airport (GLA), Scotland, United Kingdom
+6054233;6054233;Barrigada - A.B. Won Pat International Airport (GUM), Guam
+6054238;6054238;Reno Tahoe Intl. Airport (RNO), Nevada, United States of America
+6054252;6054252;Edinburgh Airport (EDI), Scotland, United Kingdom
+6054305;6054305;Cardiff International Airport (CWL), Wales, United Kingdom
+6054349;6054349;Belfast International Airport (BFS), Northern Ireland, United Kingdom
+6054381;6054381;Tan Binh - Tan Son Nhat International Airport (SGN), Vietnam
+6054429;6054429;Spokane International Airport (GEG), Washington, United States of America
+6054531;6054531;Heathrow Airport (LHR), England, United Kingdom
+6054532;6054532;Gatwick Airport (LGW), England, United Kingdom
+6054575;6054575;Portland International Airport (PDX), Oregon, United States of America
+6054694;6054694;Keflavik International Airport (KEF), Iceland
+6054755;6054755;Sky Harbor International Airport (PHX), Arizona, United States of America
+6054808;6054808;Ataturk International Airport (IST), Turkey
+6054949;6054949;Albuquerque International Sunport (ABQ), New Mexico, United States of America
+6055015;6055015;Turin International Airport (TRN), Italy
+6055283;6055283;Faleolo International Airport (APW), Samoa
+6056229;6056229;Helsinki-Vantaa Airport (HEL), Finland
+6056309;6056309;Narita International Airport (NRT), Japan
+6056391;6056391;Salt Lake City International Airport (SLC), Utah, United States of America
+6056454;6056454;MacArthur Airport (ISP), New York, United States of America
+6056468;6056468;Newark Liberty International Airport (EWR), New Jersey, United States of America
+6056597;6056597;Gardermoen Airport (OSL), Norway
+6056796;6056796;Colorado Springs Municipal Airport (COS), Colorado, United States of America
+6056895;6056895;Cork Airport (ORK), Ireland
+6056999;6056999;Richmond International Airport (RIC), Virginia, United States of America
+6057136;6057136;Frederic Chopin Airport (WAW), Poland
+6057139;6057139;T.F. Green Airport (PVD), Rhode Island, United States of America
+6057279;6057279;Henri Coanda International Airport (OTP), Romania
+6057457;6057457;Findel International Airport (LUX), Luxembourg
+6057530;6057530;Baltimore Washington International Airport (BWI), Maryland, United States of America
+6057650;6057650;Philadelphia International Airport (PHL), Pennsylvania, United States of America
+6057666;6057666;Pittsburgh International Airport (PIT), Pennsylvania, United States of America
+6057675;6057675;Vaernes Airport (TRD), Norway
+6057739;6057739;Huntsville International Airport (HSV), Alabama, United States of America
+6057754;6057754;Riga International Airport (RIX), Latvia
+6057768;6057768;Birmingham International Airport (BHM), Alabama, United States of America
+6057778;6057778;Sheremetyevo Airport (SVO), Russia
+6057859;6057859;Ottawa International Airport (YOW), Ontario, Canada
+6057870;6057870;Calgary International Airport (YYC), Alberta, Canada
+6057874;6057874;Manchester Airport (MAN), England, United Kingdom
+6057879;6057879;Zurich Airport (ZRH), Switzerland
+6057887;6057887;Leduc - Edmonton International Airport (YEG), Alberta, Canada
+6057935;6057935;Toronto West - Pearson International Airport (YYZ), Ontario, Canada
+6057977;6057977;Savannah - Hilton Head International Airport (SAV), Georgia, United States of America
+6058209;6058209;Trudeau International Airport (YUL), Quebec, Canada
+6058213;6058213;Jean Lesage International Airport (YQB), Quebec, Canada
+6058305;6058305;Lincoln Municipal Airport (LNK), Nebraska, United States of America
+6058358;6058358;Wichita Dwight D. Eisenhower National Airport (ICT), Kansas, United States of America
+6058364;6058364;Charlotte-Douglas International Airport (CLT), North Carolina, United States of America
+6058438;6058438;Vancouver International Airport (YVR), British Columbia, Canada
+6058599;6058599;Asheville Regional Airport (AVL), North Carolina, United States of America
+6058659;6058659;Will Rogers World Airport (OKC), Oklahoma, United States of America
+6058665;6058665;Tulsa International Airport (TUL), Oklahoma, United States of America
+6058817;6058817;Peretola Airport (FLR), Italy
+6058830;6058830;Kansas City International Airport (MCI), Missouri, United States of America
+6058844;6058844;Brisbane Airport (BNE), Queensland, Australia
+6058847;6058847;Lambert-St. Louis International Airport (STL), Missouri, United States of America
+6058855;6058855;El Paso International Airport (ELP), Texas, United States of America
+6058882;6058882;Bristol International Airport (BRS), England, United Kingdom
+6059086;6059086;Austin-Bergstrom International Airport (AUS), Texas, United States of America
+6059131;6059131;Houston William Hobby Airport (HOU), Texas, United States of America
+6059146;6059146;Love Field Airport (DAL), Texas, United States of America
+6059193;6059193;Gerald R. Ford International Airport (GRR), Michigan, United States of America
+6059249;6059249;Detroit Metropolitan Airport (DTW), Michigan, United States of America
+6059326;6059326;Chicago Midway Airport (MDW), Illinois, United States of America
+6059436;6059436;Memphis International Airport (MEM), Tennessee, United States of America
+6059481;6059481;Cleveland Hopkins International Airport (CLE), Ohio, United States of America
+6059505;6059505;Port Columbus International Airport (CMH), Ohio, United States of America
+6059518;6059518;Cincinnati-Northern Kentucky Int'l Airport (CVG), Kentucky, United States of America
+6059533;6059533;Sioux Falls Regional Airport (FSD), South Dakota, United States of America
+6059558;6059558;Louisville International Airport (SDF), Kentucky, United States of America
+6059655;6059655;General Mitchell International Airport (MKE), Wisconsin, United States of America
+6059743;6059743;Nashville International Airport (BNA), Tennessee, United States of America
+6059851;6059851;Alcoa - Knoxville Airport (TYS), Tennessee, United States of America
+6059892;6059892;Indianapolis International Airport (IND), Indiana, United States of America
+6059905;6059905;Dane County Regional Airport (MSN), Wisconsin, United States of America
+6060025;6060025;Des Moines International Airport (DSM), Iowa, United States of America
+6062934;6062934;Jacksonville International Airport (JAX), Florida, United States of America
+6064268;6064268;Baiyun International Airport (CAN), China
+6069778;6069778;Naples International Airport (NAP), Italy
+6094986;6094986;Kuala Lumpur International Airport (KUL), Malaysia
+6125781;6125781;Indira Gandhi International Airport (DEL), India
+6126814;6126814;Cochin International Airport (COK), Cochin, India
+6126959;6126959;Chennai International Airport (MAA), India
+6129240;6129240;Ted Stevens Anchorage International Airport (ANC), Alaska, United States of America
+6131325;6131325;Darwin International Airport (DRW), Northern Territory, Australia
+6135242;6135242;Perth Airport (PER), Western Australia, Australia
+6135250;6135250;Marco Polo Airport (VCE), Italy
+6140863;6140863;Tianjin Binhai International Airport (TSN), China
+6142147;6142147;Senai International Airport (JHB), Malaysia
+6147559;6147559;Schoenefeld Airport (SXF), Germany
+6148465;6148465;Bologna Airport (BLQ), Italy
+6176830;6176830;Dabolim Airport (GOI), India
+6178036;6178036;Taoyuan International Airport (TPE), Taiwan
+6178322;6178322;Bergamo Orio al Serio Airport (BGY), Italy
+6180969;6180969;Lyon Saint-Exupery Airport (LYS), Lyon, France
+6185820;6185820;Cristoforo Colombo Airport (GOA), Italy
+6189280;6189280;Porto Alegre Airport (POA), Brazil
+6193630;6193630;Nice Airport (NCE), Nice, France
+6196765;6196765;Valerio Catullo Airport (VRN), Italy
+6223075;6223075;Montpellier Airport (MPL), France
+6223667;6223667;Sabiha Gokcen International Airport (SAW), Turkey
+6267867;6267867;Buffalo Niagara International Airport (BUF), New York, United States of America
+6267877;6267877;Greater Rochester International Airport (ROC), New York, United States of America
+6270701;6270701;Pisa Airport (PSA), Italy
+6284909;6284909;Catania Fontanarossa Airport (CTA), Italy
+6288359;6288359;El Dorado Airport (BOG), Colombia
+6290282;6290282;Hobart International Airport (HBA), Tasmania, Australia
+6312102;6312102;Albany International Airport (ALB), New York, United States of America
+6336858;6336858;Taoyuan International Airport (TPE), Dayuan, Taiwan
+6337574;6337574;Jose Joaquin de Olmedo Intl Airport (GYE), Ecuador
+6337877;6337877;Phuket International Airport (HKT), Thailand
+6341212;6341212;Cincinnati-Northern Kentucky Intl. Airport (CVG), Hebron, Kentucky, United States of America
+6342727;6342727;Winnipeg James Armstrong Richardson International Airport (YWG), Manitoba, Canada
+6348387;6348387;Nagasaki Airport (NGS), Japan
+6348538;6348538;Sendai Airport (SDJ), Sendai, Japan
+6348976;6348976;Gimhae Airport (PUS), Busan, South Korea
+6357375;6357375;Zaragoza Airport (ZAZ), Spain
+6358348;6358348;London International Airport (YXU), Ontario, Canada
+800008;800008;Hartsfield-Jackson Atlanta International Airport (ATL), Georgia, United States of America
+800018;800018;Logan International Airport (BOS), Massachusetts, United States of America
+800023;800023;Chicago O'Hare International Airport (ORD), Illinois, United States of America
+800027;800027;Dallas-Fort Worth International Airport (DFW), Texas, United States of America
+800032;800032;Denver International Airport (DEN), Colorado, United States of America
+800036;800036;Hollywood International Airport (FLL), Florida, United States of America
+800038;800038;George Bush Intercontinental Airport (IAH), Texas, United States of America
+800060;800060;Los Angeles Intl. (LAX), California, United States of America
+800068;800068;Miami International Airport (MIA), Florida, United States of America
+800082;800082;LaGuardia Airport (LGA), New York, United States of America
+800083;800083;John F. Kennedy International Airport (JFK), New York, United States of America
+800088;800088;Orlando International Airport (MCO), Florida, United States of America
+800121;800121;San Antonio International Airport (SAT), Texas, United States of America
+800127;800127;San Francisco International Airport (SFO), California, United States of America
+800133;800133;Seattle-Tacoma International Airport (SEA), Washington, United States of America
+800137;800137;Ronald Reagan National Airport (DCA), Virginia, United States of America
+800138;800138;Washington Dulles International Airport (IAD), Virginia, United States of America
+9965SXT;9965;Taman Negara National Park, Malaysia

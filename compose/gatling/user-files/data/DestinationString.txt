@@ -1,0 +1,12 @@
+﻿RegionID;DestinationString
+179900;Tokyo (and vicinity), Japan
+6128392;Western Tokyo, Japan
+6347171;Tokyo Bay, Tokyo, Japan
+6128311;Tsumagoi (and vicinity), Japan
+6129214;Maebashi (and vicinity), Japan
+179164;Ota, Japan
+178262;Ho Chi Minh City (and vicinity), Vietnam
+10260;Can Tho, Vietnam
+602674;Buffalo (and vicinity), New York, United States of America
+602721;Niagara Falls (and vicinity), New York, United States of America
+6056507;Dunkirk (and vicinity), New York, United States of America
