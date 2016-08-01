@@ -8,6 +8,6 @@ import scala.concurrent.duration._
 
 object SnoopyAirportFeeder {
 
-        val feeder = ssv("ParentRegionList.txt", '#').random
+        val feeder = ssv("airport_autocomplete.csv", '#')
 
 }

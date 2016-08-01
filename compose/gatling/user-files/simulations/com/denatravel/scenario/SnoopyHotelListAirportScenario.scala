@@ -23,7 +23,7 @@ object SnoopyHotelListAirportScenario {
                              case _ => session
                            }
                          })
-                        .exec(SnoopyHotelListAction.act)
+                        .exec(SnoopyHotelListForAirportAction.act)
                        }
 
 
