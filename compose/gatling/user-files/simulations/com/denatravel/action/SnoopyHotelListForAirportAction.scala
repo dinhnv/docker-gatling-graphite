@@ -4,6 +4,8 @@ import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import io.gatling.jdbc.Predef._
 import scala.concurrent.duration._
+import io.gatling.commons.validation.Success
+import io.gatling.http.check.HttpCheck
 import SnoopyHeaders._
 
 object SnoopyHotelListForAirportAction {
@@ -24,10 +26,11 @@ object SnoopyHotelListForAirportAction {
     "options": {
         "order": 0,
         "filter": {
-            "pageSize": 2
+            "pageSize": 200
         }
     }"""
 
+  val tmpValFormat = """{"body":{"total": "%s"}}}"""
   val apiRQFormat = """{ "header": %s, "body": %s }"""
 
   val apiRQStringForAirport = apiRQFormat.format(SnoopyHeaders.apiHeaders, requestBodyForAirport)
@@ -41,12 +44,11 @@ object SnoopyHotelListForAirportAction {
             .check(jsonPath("$.body.hotelInfos[0].hotelSummary.id").saveAs("hotelId"))
             .check(jsonPath("$.body.hotelInfos[0].rateInfos[0].rateId").saveAs("rateId"))
             .check(jsonPath("$.body.hotelInfos[0].rateInfos[0].chargeableRate.total").saveAs("totalAmt"))
+            .check(jsonPath("$.body.summaryInfo.totalItemCount").ofType[Int].greaterThan(1))
             .check(jsonPath("$.body.isPackageRate").saveAs("isPackageRate"))
 
           )
           .pause(1) // Note that Gatling has recorded real time pauses
-
-
 
 }
 

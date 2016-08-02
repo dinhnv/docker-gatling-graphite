@@ -17,7 +17,8 @@ class SnoopyHotelListAirportSimulation extends Simulation {
   // execute scenario
   setUp(
     SnoopyHotelListAirportScenario.scn.inject(rampUsers(noOfUsersHotelList) over (rampUpTimeSecs seconds))
-  ).protocols(HttpProtocol.proto)
+  )
+  .protocols(HttpProtocol.proto)
 
   after {
     println("after test")

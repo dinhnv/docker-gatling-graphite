@@ -3,6 +3,8 @@ package snoopydoo
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import io.gatling.jdbc.Predef._
+import io.gatling.commons.validation.Success
+import io.gatling.http.check.HttpCheck
 import scala.concurrent.duration._
 import SnoopySuggestionAction._
 import SnoopyHotelListAction._
