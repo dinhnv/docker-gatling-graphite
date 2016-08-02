@@ -18,7 +18,7 @@ import TestUtil._
 object MixedScenario {
 
   val scn = scenario("HotelListForSelect")
-                     .exec(SnoopyHotelListAction.act)
+                     .exec(SnoopyHotelListForSelectAction.act)
                      .exec(session => {
                            session("isPackageRate").as[String] match {
                              case "true" => session.set("isPackageRateFlg", "true")
